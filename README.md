@@ -1,2 +1,2 @@
 # gitMergeConflictDemo
-Just a wee demo of creating and fixing merge conflicts
+Just a small demo of creating and fixing merge conflicts
